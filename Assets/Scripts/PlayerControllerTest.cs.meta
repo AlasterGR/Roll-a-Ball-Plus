@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0e6295b9bc86e9545af741149f38d733
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerBallRenderer: {fileID: 731194922000789177, guid: 2848124cc3c8d3b42b642f8019789702,
+      type: 3}
+  - playerBallMaterial: {fileID: 2100000, guid: aeb118757aacd844b8bdddcf4b510101,
+      type: 2}
+  - playerBallCollider: {fileID: 731194922000789179, guid: 2848124cc3c8d3b42b642f8019789702,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
